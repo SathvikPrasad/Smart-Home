@@ -1,0 +1,21 @@
+nodeMCU 12E----   https://en.wikipedia.org/wiki/NodeMCU
+
+
+ir sensors----  https://www.electronicshub.org/ir-sensor/
+
+
+
+6 channel relay ---  http://wiki.sunfounder.cc/index.php?title=2_Channel_5V_Relay_Module
+
+
+
+
+
+dc motoes---
+
+
+
+led lights---
+
+
+jumpers---
